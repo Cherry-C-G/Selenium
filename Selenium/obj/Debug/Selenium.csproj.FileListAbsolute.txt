@@ -1,0 +1,10 @@
+C:\Antra\5-31\Selenium\Selenium\obj\Debug\Selenium.csproj.AssemblyReference.cache
+C:\Antra\5-31\Selenium\Selenium\obj\Debug\Selenium.csproj.SuggestedBindingRedirects.cache
+C:\Antra\5-31\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Antra\5-31\Selenium\Selenium\bin\Debug\Selenium.exe.config
+C:\Antra\5-31\Selenium\Selenium\bin\Debug\Selenium.exe
+C:\Antra\5-31\Selenium\Selenium\bin\Debug\Selenium.pdb
+C:\Antra\5-31\Selenium\Selenium\obj\Debug\Selenium.exe
+C:\Antra\5-31\Selenium\Selenium\obj\Debug\Selenium.pdb
+C:\Antra\5-31\Selenium\Selenium\bin\Debug\WebDriver.dll
+C:\Antra\5-31\Selenium\Selenium\obj\Debug\Selenium.csproj.CopyComplete
